@@ -14,6 +14,6 @@ Awesome articles and more
 5. Neural Networks and Deep Learning | http://neuralnetworksanddeeplearning.com/index.html
 6. Deep Learning for Beginners: Recognizing Handwritten Numbers | https://habr.com/ru/company/wunderfund/blog/314242/
 
-
-## Archetecture:
+## Architecture:
 1. Game Programming Patterns | http://gameprogrammingpatterns.com/bytecode.html
+2. Unifying Theories of Programming | http://www.unifyingtheories.org/
