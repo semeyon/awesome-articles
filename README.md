@@ -24,3 +24,13 @@ Awesome articles and more
 ## GPU
 1. GPU gems | https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html
 2. Advanced Data Structures | http://courses.csail.mit.edu/6.851/spring12/lectures/
+
+## Frameworks & Libs
+
+1. http://seastar.io/
+2. 
+
+
+## Stuff
+1. Tool to manage android assets, Icons | https://romannurik.github.io/AndroidAssetStudio/index.html
+2. Ability to undelete stuff on Google CLoud | https://cloud.google.com/iam/docs/reference/rest/v1/projects.serviceAccounts/undelete
