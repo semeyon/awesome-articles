@@ -17,3 +17,5 @@ Awesome articles and more
 ## Architecture:
 1. Game Programming Patterns | http://gameprogrammingpatterns.com/bytecode.html
 2. Unifying Theories of Programming | http://www.unifyingtheories.org/
+3. OS Course lections | https://www.youtube.com/playlist?list=PLlb7e2G7aSpT4SMpYl6uVYi13k0k9CBiq
+4. Introduction to Natural Language Processing (Fall 2019) | https://www.youtube.com/playlist?list=PLlb7e2G7aSpRTcBciP6VBJJPvdH_DXRXQ
