@@ -22,4 +22,5 @@ Awesome articles and more
 
 
 ## GPU
-1. https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html
+1. GPU gems | https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html
+2. Advanced Data Structures | http://courses.csail.mit.edu/6.851/spring12/lectures/
