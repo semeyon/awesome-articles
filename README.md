@@ -5,6 +5,7 @@ Awesome articles and more
 ## Algos
 1. Introduction to Graphs | https://towardsdatascience.com/introduction-to-graphs-part-1-2de6cda8c5a5
 2. Singltone tricks in C++ | https://habr.com/ru/post/118368/
+3. Simple 2d games algos | https://www.redblobgames.com/
 
 ## ML
 1. Turning Design Mockups Into Code With Deep Learning | https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
@@ -19,7 +20,7 @@ Awesome articles and more
 2. Unifying Theories of Programming | http://www.unifyingtheories.org/
 3. OS Course lections | https://www.youtube.com/playlist?list=PLlb7e2G7aSpT4SMpYl6uVYi13k0k9CBiq
 4. Introduction to Natural Language Processing (Fall 2019) | https://www.youtube.com/playlist?list=PLlb7e2G7aSpRTcBciP6VBJJPvdH_DXRXQ
-
+5. Component-based weapon system | https://forum.unity.com/threads/component-based-weapon-system.204999/
 
 ## GPU
 1. GPU gems | https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html
